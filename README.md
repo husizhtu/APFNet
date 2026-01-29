@@ -188,7 +188,7 @@ python detect.py --weights runs/train/*/weights/best.pt --source dataset/DIOR_YO
 
 ## 致谢
 
-- [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
+- [Ultralytics](https://github.com/ultralytics/ultralytics)
 - [RT-DETR](https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/rtdetr)
 - [Grad-CAM](https://github.com/jacobgil/pytorch-grad-cam)
 
