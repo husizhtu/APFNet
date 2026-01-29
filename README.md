@@ -184,7 +184,7 @@ python detect.py --weights runs/train/*/weights/best.pt --source dataset/DIOR_YO
 
 ## 许可证
 
-本项目基于 AGPL-3.0 许可证。
+本项目基于 MIT 许可证。
 
 ## 致谢
 
