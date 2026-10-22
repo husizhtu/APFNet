@@ -1,5 +1,5 @@
-# APFNet 目标检测项目
-## APFNet: Attention-Guided Pyramid Fusion Network for Small Object Detection in Remote Sensing Images
+# APFNet
+## APFNet: An Adaptive Perception Fusion Network for Multi-Scale Object Detection in Remote Sensing
 
 ## 项目结构
 
